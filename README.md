@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 --> -->
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Kokkula</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **My company Projects**
+- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **rakeshkokkula3@gmail.com**
 
